@@ -30,14 +30,19 @@
 ## 2. Service Page
 ![preview](image/service-img.png)
 
+### 3. Product Page
 ![preview](image/product-img.png)
 
+### 4. Technology Page
 ![preview](image/technology-img.png)
 
+### 5. About Page
 ![preview](image/about-img1.png)
 ![preview](image/about-img2.png)
 
+### 6. Client Page
 ![preview](image/client-img.png)
 
+### 7. Partner Page
 ![preview](image/parter-img.png)
 
