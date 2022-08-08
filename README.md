@@ -23,10 +23,11 @@
 * The main framework used in building the website is Jquery, JavaScript, Bootstrap and its components like Carousel, Card, Buttons, Navbar etc. It also used HTML5, CSS3 and Google Fonts and Font Awesome.
 
 # Screenshots
-
+### 1. Home Page
 ![preview](image/preview1.png)
 ![preview](image/preview2.png)
 
+## 2. Service Page
 ![preview](image/service-img.png)
 
 ![preview](image/product-img.png)
